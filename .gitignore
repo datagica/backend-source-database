@@ -1,0 +1,12 @@
+tests/storage/
+!tests/storage/README.md
+
+node_modules/
+npm-debug.log
+.*
+_replicator/
+_users/
+pouch__all_dbs__
+log.txt
+db/
+tests/my_node_db
